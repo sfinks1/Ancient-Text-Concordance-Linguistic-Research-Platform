@@ -1,0 +1,26 @@
+# Phase 1 Scope
+
+# Goal
+
+Build the database foundation for an ancient text concordance and linguistic research platform.
+
+# MVP Includes
+
+- Canon-aware book structure
+- Verse storage
+- Token-level word storage
+- Lemma mapping
+- Strong’s-style references
+- Morphology support
+- Lexicon entries
+- Cross-language clarification records
+- Data-quality validation queries
+
+# QA Focus
+
+- Referential integrity
+- Duplicate detection
+- Missing lemma detection
+- Missing lexicon definition detection
+- Apocrypha support
+- Search-ready token structure
